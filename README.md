@@ -50,17 +50,6 @@ I enjoy creating scalable UI components, improving user experience, and solving 
 * Built using **React.js** to help clinics and billing teams track ticket details.
 * Implemented filtering and efficient data handling.
 
----
-
-## 📊 GitHub Stats
-
-![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=radical)
-
----
-
-## 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayshetty744&layout=compact)
 
 ---
 
